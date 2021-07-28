@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR APP</string>
+    <string name="hint" textSize="18sp">Enter Value</string>
+    <string name="developer_name">Avijit Chowdhury(CUET)</string>
+</resources>
